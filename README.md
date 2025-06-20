@@ -6,14 +6,14 @@ Durante o projeto, foram desenvolvidos:
 
 ⸻
 
-🔐 Tela de Login
+### 🔐 Tela de Login
 	•	Interface gráfica que simula uma tela de autenticação de usuário.
 	•	Campos para usuário e senha, com validação básica.
 	•	Utiliza conceitos de encapsulamento e eventos de interface.
 
 ⸻
 
-➕ Calculadora Básica
+### ➕ Calculadora Básica
 	•	Realiza operações simples:
 	•	Soma
 	•	Subtração
@@ -24,7 +24,7 @@ Durante o projeto, foram desenvolvidos:
 
 ⸻
 
-❌⭕ Jogo da Velha
+### ❌⭕ Jogo da Velha
 	•	Versão clássica do jogo entre dois jogadores.
 	•	Utiliza lógica de verificação de vitória ou empate.
 	•	Demonstra o uso de estruturas condicionais e arrays em Java.
