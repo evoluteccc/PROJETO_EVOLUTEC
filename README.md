@@ -40,3 +40,5 @@ O projeto foi desenvolvido pela equipe da Volutec, composta por quatro integrant
 	•	Desenvolvedor do Jogo da Velha, trabalhando na lógica de jogo, controle de jogadas e verificação de vitória ou empate.
 
 Embora cada membro tenha tido uma função principal, todos se ajudaram mutuamente durante o desenvolvimento, reforçando o trabalho em equipe e a cooperação.
+
+
